@@ -6,3 +6,10 @@ Este repositorio hace uso de jupyter notebook para hacer limpieza y analisis del
 
 
 ## Graficas
+![contagions by countries](https://github.com/LuisGerardoDC/zika_pandas/blob/master/graficas/by_countries.png)
+
+
+![contagions by countries](https://github.com/LuisGerardoDC/zika_pandas/blob/master/graficas/by_date.png)
+
+
+![contagions by countries](https://github.com/LuisGerardoDC/zika_pandas/blob/master/graficas/by_regions.png)
