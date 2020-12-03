@@ -19,3 +19,8 @@ La zona con mas contagios en Brazil es esl sudeste del pais.
 ![contagions by countries](https://github.com/LuisGerardoDC/zika_pandas/blob/master/graficas/by_date.png)
 
 La mayoria de los contagios fueron dados entre 03/31/2016 y el 30/06/2016 
+
+
+## Link to Notion
+
+https://www.notion.so/Zika-analysis-e982c2228a124becaf19c2272d5727d5
